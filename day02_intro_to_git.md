@@ -732,13 +732,7 @@ link to accept the assignment. This will create the repo in your GitHub account.
 As we did before, clone the remote repo to your local machine. Then, edit the
 file `git_facts.md` by deleting the underscores and filling in the blanks with
 the correct words. Once you have done so, commit your changes and push to the
-remote. 
-
-Next, go to Moodle and submit your assignment there by clicking "提出物をアップロード・入力する" and entering the URL of your
-repo. For this assignment, mine looks like this:
-`https://github.com/data-analysis-chiba-2023/day02-git-joelnitta`
-
-![Location of Day 2 homework link](images/day2_enter_url.png)
+remote.
 
 Be sure to do this BY THE DEADLINE, or your work will not be counted.
 
